@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Author on 紫龙传媒</title>
+    <link>https://zlon.com.cn/author/</link>
+    <description>Recent content in Author on 紫龙传媒</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 25 Aug 2022 16:18:12 +0800</lastBuildDate><atom:link href="https://zlon.com.cn/author/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>zlonmedia</title>
+      <link>https://zlon.com.cn/author/zlonmedia/</link>
+      <pubDate>Thu, 25 Aug 2022 16:18:12 +0800</pubDate>
+      
+      <guid>https://zlon.com.cn/author/zlonmedia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>紫云星链</title>
+      <link>https://zlon.com.cn/author/%E7%B4%AB%E4%BA%91%E6%98%9F%E9%93%BE/</link>
+      <pubDate>Wed, 24 Aug 2022 13:23:47 +0800</pubDate>
+      
+      <guid>https://zlon.com.cn/author/%E7%B4%AB%E4%BA%91%E6%98%9F%E9%93%BE/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>青山</title>
+      <link>https://zlon.com.cn/author/%E9%9D%92%E5%B1%B1/</link>
+      <pubDate>Wed, 24 Aug 2022 00:11:58 +0800</pubDate>
+      
+      <guid>https://zlon.com.cn/author/%E9%9D%92%E5%B1%B1/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Series on 紫龙传媒</title>
+    <link>https://zlon.com.cn/series/</link>
+    <description>Recent content in Series on 紫龙传媒</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 25 Aug 2022 16:18:12 +0800</lastBuildDate><atom:link href="https://zlon.com.cn/series/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>cinema</title>
+      <link>https://zlon.com.cn/series/cinema/</link>
+      <pubDate>Thu, 25 Aug 2022 16:18:12 +0800</pubDate>
+      
+      <guid>https://zlon.com.cn/series/cinema/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>projector</title>
+      <link>https://zlon.com.cn/series/projector/</link>
+      <pubDate>Thu, 25 Aug 2022 13:16:34 +0800</pubDate>
+      
+      <guid>https://zlon.com.cn/series/projector/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>crypto</title>
+      <link>https://zlon.com.cn/series/crypto/</link>
+      <pubDate>Wed, 24 Aug 2022 13:23:47 +0800</pubDate>
+      
+      <guid>https://zlon.com.cn/series/crypto/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
