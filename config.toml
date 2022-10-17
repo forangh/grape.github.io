@@ -47,13 +47,16 @@ disqusShortname = ""
   # commentoJsURL = "https://commento.lednerb.de/js/commento.js"
 
   # Enable / Disable Giscus comments
-  giscus             = false
+  giscus             = true
   giscusJsUrl        = "https://giscus.app/client.js"
-  giscusRepository   = "metatopnews/ZLON"
-  giscusRepositoryId = "R_kgDOHvOSdw"
+  giscusRepository   = "forangh/grape.github.io"
+  giscusRepositoryId = "R_kgDOIFdTyw"
   giscusMapping      = "pathname"
   giscusCategory     = "General"
-  giscusCategoryId   = "DIC_kwDOHvOSd84CQ97k"
+  giscusCategoryId   = "DIC_kwDOIFdTy84CSBlF"
+  data-strict        = "0"
+  data-reactions-enabled = "1"
+  data-input-position= "bottom"
   giscusTheme        = "light"
   giscusReactions    = "1"
   giscusEmitMetadata = "0"
