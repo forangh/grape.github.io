@@ -12,7 +12,7 @@ author: "zlonmedia"
 
 放心地将电影及各种内容托付给业内优选的影院解决方案供应商科视Christie。 我们已成功在全球完成逾 60,000 台安装，实现超过 1000 万场放映，并从中积累了宝贵的知识与经验。随着行业发展，我们致力于不断创新，满足电影制片人、制作公司和放映商日益变化的需求，以及观众对史诗级观影体验的追求。<!--more-->
 
-##### [**【Solaria 系列】**](http://localhost:1313/projector/christie/)
+##### [**【Solaria 系列】**](http://zlon.com.cn/projector/christie/)
 科视Christie® Solaria™ 系列电影放映机为 DCI 数字影院提供 2K 和 4K 照明。该系列堪称氙灯照明技术的典范，其身影遍及全球 65,000 多家影院。
 
 Solaria 系列的高亮度机型搭载面向 2K 到 4K 分辨率升级的照明套件，灯泡亮度可调且选项丰富，其开放式 IMB 插槽兼容大多数第三方产品，具备 3D 或 HFR 功能，并且支持针对您搭配原装科视Christie Xenolite® 灯泡，这些电影放映机能实现 P3 色谱，保证持续符合 DCI 标准。Solaria 系列电影放映机秉承使用简便的设计初衷。灯泡更换、投影对准和用户界面在设计制造上全都立足于最终用户。
@@ -42,7 +42,7 @@ Solaria 不受非常规角度和尺寸的局限，以最优方式契合您的影
 **支持定制**
 无论放映内容是 2D 还是 3D，无论分辨率是 2K 还是 4K，Solaria 系列都堪当大任。Solaria 系列同样支持您的任何现有 IMB。随着现代化影院的技术幅度不断扩大，Solaria 系列随时准备满足对 HFR 能力的要求。
 
-##### [**【CineLife 系列】**](http://localhost:1313/projector/christie/)
+##### [**【CineLife 系列】**](http://zlon.com.cn/projector/christie/)
 我们的 CineLife 系列电影放映机搭载 CineLife™ 第 3 代影院电子平台。CineLife 电子平台为新一代 RealLaser™ 和 Xenolite 照明技术奠定了基础，其精简的触摸屏界面强调用户体验，简化影片内容的播放、排期与管理。
 
 CineLife 系列从设计层面兼顾价格适宜性和安装简便性，推动 RGB 纯激光技术走入大众影厅。DCI 兼容的 CineLife 电影放映机不需要外部冷却装置，亦无需连接光缆，轻松适配狭小空间，带来高端视觉体验。
@@ -62,7 +62,7 @@ CineLife 系列具备您需要的灵活性。RGB 纯激光或氙灯照明、2K �
 - 提供租赁服务，助力基于租赁的商业模式
 - 维护简便，可从后部更换灯泡，氙灯机型的滤网可重复使用
 
-##### [**【CineLife+ 系列】**](http://localhost:1313/projector/christie/)
+##### [**【CineLife+ 系列】**](http://zlon.com.cn/projector/christie/)
 科视Christie® CineLife+™ 系列电影放映机搭载第 4 代超高速处理电子平台。CineLife+ 将进阶格式功能带入大众影院，进一步拓宽了最初专为高端巨幕 (PLF) 场馆打造的影院放映技术的应用领域。
 
 科视Christie RealLaser™ 以及强调用户体验的精简触摸屏助推 CineLife+ 系列跻身现代化影院前沿。CineLife+ 电影放映机符合 DCI 标准，开启了色彩和对比度的新世界，效率高、使用寿命长，并能以 4K 分辨率和高达 120 帧/秒的速率放映 2D 和 3D 内容。
