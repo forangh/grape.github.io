@@ -1,5 +1,5 @@
 title = "紫龙传媒"
-baseURL = "https://zlon.com.cn/"
+baseURL = ""
 theme = "bilberry-hugo-theme"
 publishDir = "docs"
 # zlonmedia_sites_images token: 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
