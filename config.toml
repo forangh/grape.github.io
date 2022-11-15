@@ -159,7 +159,7 @@ disqusShortname = ""
     copyrightUseCurrentYear = true  # set to true to always display the current year in the copyright
     copyrightYearOverride = "2017"
     copyrightUrl = "https://zlon.com.cn"
-    creditsText = "Email：info@zlon.com.cn"
+    creditsText = "津ICP备19002933号-1"
     creditsUrl = "https://zlon.com.cn"
 
 
