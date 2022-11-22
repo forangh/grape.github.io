@@ -149,9 +149,11 @@ disqusShortname = ""
     # brand icons https://fontawesome.com/icons?d=gallery&s=brands&m=free
     socialMediaLinks = [
       { link = "https://twitter.com/zlonmedia", icon = "fab fa-twitter" },
+      { link = "https://t.me/zlonmedia", icon = "fab fa-telegram" },
       { link = "https://github.com/metatopnews", icon = "fab fa-github" },
       { link = "https://weibo.com/u/7083325518", icon = "fab fa-weibo" },
       { link = "https://www.douyin.com/user/MS4wLjABAAAAhktK3OAfxIpP-u_jSB-GBfPq46CPBxEMNDGPOsPkiPI", icon = "fab fa-tiktok" },
+      
     ]
 
     # credits line configuration
