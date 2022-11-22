@@ -42,10 +42,10 @@ table
 
 |  |  |
 | --- | ---: |
-| **ETH钱包地址：** | **[zlon.eth](https://metamask.io)** |
-| **电话：**&emsp;&emsp;&emsp;| 022-66863168 |
-| **邮箱：**&emsp;&emsp;&emsp;| info@zlon.com.cn |
-| **地址：**&emsp;&emsp;&emsp;| 天津自贸区(中心商务区)新华路3699号宝元大厦18层 |
+| **ETH地址：**&emsp;&emsp; | **[zlon.eth](https://metamask.io)** |
+| **电话：**&emsp;&emsp;| 022-66863168 |
+| **邮箱：**&emsp;&emsp;| info@zlon.com.cn |
+| **地址：**&emsp;&emsp;| 天津自贸区(中心商务区)新华路3699号宝元大厦18层 |
 
 <br/>
 
