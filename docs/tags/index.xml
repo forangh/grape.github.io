@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on 紫龙传媒 🅩🅛🅞🅝 🅜🅔🅓🅘🅐</title>
+    <title>Tags on 🅩🅛🅞🅝 紫龙传媒 🅜🅔🅓🅘🅐</title>
     <link>https://zlon.com.cn/tags/</link>
-    <description>Recent content in Tags on 紫龙传媒 🅩🅛🅞🅝 🅜🅔🅓🅘🅐</description>
+    <description>Recent content in Tags on 🅩🅛🅞🅝 紫龙传媒 🅜🅔🅓🅘🅐</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Thu, 25 Aug 2022 16:18:12 +0800</lastBuildDate><atom:link href="https://zlon.com.cn/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -255,6 +255,42 @@
       <pubDate>Tue, 23 Aug 2022 13:53:15 +0800</pubDate>
       
       <guid>https://zlon.com.cn/tags/%E5%9B%BD%E9%99%85%E8%A7%86%E8%A7%92/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ETH</title>
+      <link>https://zlon.com.cn/tags/eth/</link>
+      <pubDate>Mon, 01 Nov 2021 13:05:27 +0100</pubDate>
+      
+      <guid>https://zlon.com.cn/tags/eth/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NFT</title>
+      <link>https://zlon.com.cn/tags/nft/</link>
+      <pubDate>Mon, 01 Nov 2021 13:05:27 +0100</pubDate>
+      
+      <guid>https://zlon.com.cn/tags/nft/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>比特币</title>
+      <link>https://zlon.com.cn/tags/%E6%AF%94%E7%89%B9%E5%B8%81/</link>
+      <pubDate>Mon, 01 Nov 2021 13:05:27 +0100</pubDate>
+      
+      <guid>https://zlon.com.cn/tags/%E6%AF%94%E7%89%B9%E5%B8%81/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>加密货币</title>
+      <link>https://zlon.com.cn/tags/%E5%8A%A0%E5%AF%86%E8%B4%A7%E5%B8%81/</link>
+      <pubDate>Mon, 01 Nov 2021 13:05:27 +0100</pubDate>
+      
+      <guid>https://zlon.com.cn/tags/%E5%8A%A0%E5%AF%86%E8%B4%A7%E5%B8%81/</guid>
       <description></description>
     </item>
     

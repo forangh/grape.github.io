@@ -148,6 +148,7 @@ disqusShortname = ""
     # all icons https://fontawesome.com/icons?d=gallery&m=free
     # brand icons https://fontawesome.com/icons?d=gallery&s=brands&m=free
     socialMediaLinks = [
+      { link = "https://www.bitechan.mobi/zh-CN/register?ref=JKZCKM15&registerChannel=goose", icon = "fab fa-bitcoin" },
       { link = "https://twitter.com/zlonmedia", icon = "fab fa-twitter" },
       { link = "https://t.me/zlonmedia", icon = "fab fa-telegram" },
       { link = "https://github.com/metatopnews", icon = "fab fa-github" },
@@ -172,8 +173,8 @@ disqusShortname = ""
     weight = 1
   [Languages.zh-cn]
     weight = 2
-    title = "紫龙传媒 🅩🅛🅞🅝 🅜🅔🅓🅘🅐"
-    subtitle = "#𝕏ℝ #ℕ𝔽𝕋 #ℂ𝕣𝕪𝕡𝕥𝕠 #Ⓒⓘⓝⓔⓜⓐ #𝕎𝕖𝕓𝟛 #𝕄𝕖𝕥𝕒𝕧𝕖𝕣𝕤𝕖"
+    title = "🅩🅛🅞🅝 紫龙传媒 🅜🅔🅓🅘🅐"
+    subtitle = "#𝕎𝕖𝕓𝟛 #ℕ𝔽𝕋 #ℂ𝕣𝕪𝕡𝕥𝕠 #Ⓒⓘⓝⓔⓜⓐ #𝕏ℝ #𝕄𝕖𝕥𝕒𝕧𝕖𝕣𝕤𝕖"
 
 # don't change anything below
 [taxonomies]
