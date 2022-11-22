@@ -83,7 +83,7 @@ disqusShortname = ""
     subtitle = "ZlonMedia"
 
     # if you want to use libravatar or gravatar for the header image
-    avatarEmail = "code@lednerb.de"
+    avatarEmail = ""
 
     # set an path to the image file you want to use | overwrites avatar by email
     customImage = "mypicture/zlonicon1.png"
@@ -172,8 +172,8 @@ disqusShortname = ""
     weight = 1
   [Languages.zh-cn]
     weight = 2
-    title = "紫龙传媒"
-    subtitle = "ZlonMedia"
+    title = "紫龙传媒 🅩🅛🅞🅝🅜🅔🅓🅘🅐"
+    subtitle = "#𝕏ℝ #ℕ𝔽𝕋 #ℂ𝕣𝕪𝕡𝕥𝕠 #Ⓒⓘⓝⓔⓜⓐ #𝕎𝕖𝕓𝟛 #𝕄𝕖𝕥𝕒𝕧𝕖𝕣𝕤𝕖"
 
 # don't change anything below
 [taxonomies]
