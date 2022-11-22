@@ -173,8 +173,8 @@ disqusShortname = ""
     weight = 1
   [Languages.zh-cn]
     weight = 2
-    title = "🅩🅛🅞🅝 紫龙传媒"
-    subtitle = "🅜🅔🅓🅘🅐 #ℕ𝔽𝕋 🅒🅘🅝🅔🅜🅐 #𝕏ℝ"
+    title = "紫龙传媒 🅩🅛🅞🅝"
+    subtitle = "🅒🅘🅝🅔🅜🅐 #𝕏ℝ 🅜🅔🅓🅘🅐 #ℕ𝔽𝕋"
 
 # don't change anything below
 [taxonomies]
