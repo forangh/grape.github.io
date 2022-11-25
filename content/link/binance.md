@@ -9,7 +9,7 @@ tags: ['加密货币','NFT','比特币','ETH']
 author: "紫云星链"
 
 # Set your external url
-link: "https://www.bitechan.mobi/zh-CN/register?ref=JKZCKM15&registerChannel=goose"
+link: "https://www.bitechan.biz/zh-CN/register?ref=JKZCKM15&registerChannel=goose"
 ---
 
 ### 🅒🅡🅨🅟🅣🅞 
