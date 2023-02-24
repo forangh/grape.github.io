@@ -9,7 +9,7 @@ tags: ['加密货币','NFT','比特币','ETH']
 author: "紫云星链"
 
 # Set your external url
-link: "https://www.binance.com"
+link: "https://accounts.binance.com/zh-CN/register?ref=JKZCKM15"
 ---
 
 ### 🅒🅡🅨🅟🅣🅞 
